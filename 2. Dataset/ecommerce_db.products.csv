@@ -1,0 +1,501 @@
+_id,Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Selling_Price
+64ea5e09fe4f979a95e9d66f,P0001,Hydrating Serum,Beauty,Skincare,170.39207553608497,219.53
+64ea5e09fe4f979a95e9d670,P0002,Cutlery Knife Block Set,Home,Kitchenware,447.7658993852601,563.83
+64ea5e09fe4f979a95e9d671,P0003,Food Processor,Home,Appliances,303.1573483899135,428.5
+64ea5e09fe4f979a95e9d672,P0004,Highlighter Stick,Beauty,Makeup,345.1872878628812,477.92
+64ea5e09fe4f979a95e9d673,P0005,Food Processor,Home,Appliances,156.1865566887686,189.3
+64ea5e09fe4f979a95e9d674,P0006,Big Little Lies by Liane Moriarty,Books,Mystery,478.61448061954655,606.82
+64ea5e09fe4f979a95e9d675,P0007,Athletic Performance Shirt,Clothing,T-Shirts,230.28309824890565,278.51
+64ea5e09fe4f979a95e9d676,P0008,Boho Floral Dress,Clothing,Dresses,168.0465145980938,216.53
+64ea5e09fe4f979a95e9d677,P0009,Sunscreen SPF 50+,Beauty,Skincare,454.54155374610235,660.31
+64ea5e09fe4f979a95e9d678,P0010,Stainless Steel Cookware Set,Home,Kitchenware,371.68907179174704,449.05
+64ea5e09fe4f979a95e9d679,P0011,Robot Vacuum Cleaner,Home,Appliances,43.04158926694053,61.94
+64ea5e09fe4f979a95e9d67a,P0012,Espresso Machine,Home,Appliances,133.85733630416672,181.78
+64ea5e09fe4f979a95e9d67b,P0013,The Da Vinci Code by Dan Brown,Books,Mystery,179.49388992021218,235.36
+64ea5e09fe4f979a95e9d67c,P0014,Canon EOS 5D Mark IV,Electronics,Cameras,435.20367005471724,594.21
+64ea5e09fe4f979a95e9d67d,P0015,Mascara,Beauty,Makeup,154.1891092056042,193.73
+64ea5e09fe4f979a95e9d67e,P0016,Xiaomi Mi 11,Electronics,Mobile Phones,92.41002204118105,128.87
+64ea5e09fe4f979a95e9d67f,P0017,The Power of Habit by Charles Duhigg,Books,Non-Fiction,221.21531507384103,304.46
+64ea5e09fe4f979a95e9d680,P0018,iPhone 13,Electronics,Mobile Phones,58.06195613768676,74.66
+64ea5e09fe4f979a95e9d681,P0019,Blender,Home,Kitchenware,144.01437459089226,193.93
+64ea5e09fe4f979a95e9d682,P0020,Mascara,Beauty,Makeup,29.37307851156423,37.52
+64ea5e09fe4f979a95e9d683,P0021,V-Neck Solid Color Tee,Clothing,T-Shirts,422.83499603737994,623.68
+64ea5e09fe4f979a95e9d684,P0022,Becoming by Michelle Obama,Books,Non-Fiction,16.58697607153954,20.03
+64ea5e09fe4f979a95e9d685,P0023,Mid-Century Modern Sofa,Home,Furniture,112.27329911043599,140.97
+64ea5e09fe4f979a95e9d686,P0024,Maxi Sundress,Clothing,Dresses,444.2041158166881,542.15
+64ea5e09fe4f979a95e9d687,P0025,Boho Floral Dress,Clothing,Dresses,226.02425254639192,299.06
+64ea5e09fe4f979a95e9d688,P0026,Turtleneck Cashmere Sweater,Clothing,Sweaters,27.870736194784385,37.85
+64ea5e09fe4f979a95e9d689,P0027,Woody Eau de Toilette,Beauty,Fragrance,451.6506628429585,665.67
+64ea5e09fe4f979a95e9d68a,P0028,Eau de Parfum Spray,Beauty,Fragrance,225.5013581841027,286.53
+64ea5e09fe4f979a95e9d68b,P0029,Sheet Masks Set,Beauty,Skincare,146.77919904355505,180.61
+64ea5e09fe4f979a95e9d68c,P0030,Sapiens by Yuval Noah Harari,Books,Non-Fiction,39.40967313735719,52.8
+64ea5e09fe4f979a95e9d68d,P0031,Sony Alpha A7 III,Electronics,Cameras,220.76654521311187,322.05
+64ea5e09fe4f979a95e9d68e,P0032,Beats Studio Buds,Electronics,Headphones,192.99250081646875,232.02
+64ea5e09fe4f979a95e9d68f,P0033,Wall Clock,Home,Decor,378.045151724448,563.15
+64ea5e09fe4f979a95e9d690,P0034,The Da Vinci Code by Dan Brown,Books,Mystery,368.9405334441816,485.85
+64ea5e09fe4f979a95e9d691,P0035,"Thinking, Fast and Slow by Daniel Kahneman",Books,Non-Fiction,194.43267426580366,270.2
+64ea5e09fe4f979a95e9d692,P0036,Chunky Knit Pullover,Clothing,Sweaters,231.8853357494407,318.45
+64ea5e09fe4f979a95e9d693,P0037,The Da Vinci Code by Dan Brown,Books,Mystery,99.45688011713602,129.94
+64ea5e09fe4f979a95e9d694,P0038,Canvas Wall Art,Home,Decor,365.0643743215172,472.03
+64ea5e09fe4f979a95e9d695,P0039,Mascara,Beauty,Makeup,401.3668581235039,541.49
+64ea5e09fe4f979a95e9d696,P0040,V-Neck Solid Color Tee,Clothing,T-Shirts,446.205690119025,572.45
+64ea5e09fe4f979a95e9d697,P0041,Off-Shoulder Midi Dress,Clothing,Dresses,452.63930644201696,627.66
+64ea5e09fe4f979a95e9d698,P0042,Heat Protectant Spray,Beauty,Haircare,480.2846176048997,702.29
+64ea5e09fe4f979a95e9d699,P0043,The Da Vinci Code by Dan Brown,Books,Mystery,486.48427276884144,612.15
+64ea5e09fe4f979a95e9d69a,P0044,Daring Greatly by Brené Brown,Books,Self-Help,99.73097548263274,139.24
+64ea5e09fe4f979a95e9d69b,P0045,Google Pixel 6,Electronics,Mobile Phones,256.6771108710632,355.81
+64ea5e09fe4f979a95e9d69c,P0046,Mid-Century Modern Sofa,Home,Furniture,307.044637883174,429.03
+64ea5e09fe4f979a95e9d69d,P0047,Solid Wood Dining Table,Home,Furniture,230.48977457373854,317.11
+64ea5e09fe4f979a95e9d69e,P0048,Dell XPS 15,Electronics,Laptops,158.1631903042688,223.44
+64ea5e09fe4f979a95e9d69f,P0049,Heat Protectant Spray,Beauty,Haircare,230.37609226665913,288.44
+64ea5e09fe4f979a95e9d6a0,P0050,Daring Greatly by Brené Brown,Books,Self-Help,41.490342470136625,54.41
+64ea5e09fe4f979a95e9d6a1,P0051,Panasonic Lumix GH5,Electronics,Cameras,223.60291627919185,290.26
+64ea5e09fe4f979a95e9d6a2,P0052,Dell XPS 15,Electronics,Laptops,308.14697700157626,421.9
+64ea5e09fe4f979a95e9d6a3,P0053,Upholstered Accent Chair,Home,Furniture,412.40425546440053,506.43
+64ea5e09fe4f979a95e9d6a4,P0054,Bose QuietComfort 35,Electronics,Headphones,497.03124486217297,743.83
+64ea5e09fe4f979a95e9d6a5,P0055,Sony WH-1000XM4,Electronics,Headphones,341.7151739183701,452.7
+64ea5e09fe4f979a95e9d6a6,P0056,Coffee Maker,Home,Kitchenware,269.87255575894164,371.98
+64ea5e09fe4f979a95e9d6a7,P0057,The Subtle Art of Not Giving a Fuck by Mark Manson,Books,Self-Help,453.3407358179187,549.39
+64ea5e09fe4f979a95e9d6a8,P0058,HP Spectre x360,Electronics,Laptops,21.732400388774217,27.65
+64ea5e09fe4f979a95e9d6a9,P0059,Sheet Masks Set,Beauty,Skincare,383.0019972250298,467.44
+64ea5e09fe4f979a95e9d6aa,P0060,Sheet Masks Set,Beauty,Skincare,360.8603624412985,521.31
+64ea5e09fe4f979a95e9d6ab,P0061,Xiaomi Mi 11,Electronics,Mobile Phones,68.14482470126029,90.18
+64ea5e09fe4f979a95e9d6ac,P0062,Wrap Dress,Clothing,Dresses,208.96785257186605,292
+64ea5e09fe4f979a95e9d6ad,P0063,Distressed Skinny Jeans,Clothing,Jeans,431.30167305690753,606.63
+64ea5e09fe4f979a95e9d6ae,P0064,Woody Eau de Toilette,Beauty,Fragrance,149.08962128414603,182.46
+64ea5e09fe4f979a95e9d6af,P0065,OnePlus 9,Electronics,Mobile Phones,378.5217029903352,496.14
+64ea5e09fe4f979a95e9d6b0,P0066,Citrus Cologne,Beauty,Fragrance,160.4218423385847,200.82
+64ea5e09fe4f979a95e9d6b1,P0067,Google Pixel 6,Electronics,Mobile Phones,398.0840610160518,537.58
+64ea5e09fe4f979a95e9d6b2,P0068,Coffee Maker,Home,Kitchenware,382.521407193918,510.06
+64ea5e09fe4f979a95e9d6b3,P0069,Sunscreen SPF 50+,Beauty,Skincare,386.458677723586,555.4
+64ea5e09fe4f979a95e9d6b4,P0070,Atomic Habits by James Clear,Books,Self-Help,73.25535663956677,102.52
+64ea5e09fe4f979a95e9d6b5,P0071,MacBook Pro,Electronics,Laptops,140.43017901762173,193.5
+64ea5e09fe4f979a95e9d6b6,P0072,1984 by George Orwell,Books,Fiction,352.8670409835401,505.09
+64ea5e09fe4f979a95e9d6b7,P0073,Distressed Skinny Jeans,Clothing,Jeans,169.8109833358587,219.49
+64ea5e09fe4f979a95e9d6b8,P0074,Smart Thermostat,Home,Appliances,77.77397483474671,94.41
+64ea5e09fe4f979a95e9d6b9,P0075,Decorative Throw Pillows,Home,Decor,286.7164101920174,425.59
+64ea5e09fe4f979a95e9d6ba,P0076,Olympus OM-D E-M5 Mark III,Electronics,Cameras,467.8925018578961,687.08
+64ea5e09fe4f979a95e9d6bb,P0077,Woody Eau de Toilette,Beauty,Fragrance,386.7480726549162,554.32
+64ea5e09fe4f979a95e9d6bc,P0078,Espresso Machine,Home,Appliances,134.72815946831793,165.34
+64ea5e09fe4f979a95e9d6bd,P0079,To Kill a Mockingbird by Harper Lee,Books,Fiction,276.6631530091838,349.78
+64ea5e09fe4f979a95e9d6be,P0080,Espresso Machine,Home,Appliances,473.4034867612074,588.67
+64ea5e09fe4f979a95e9d6bf,P0081,Floral Perfume,Beauty,Fragrance,136.29807621350534,165.56
+64ea5e09fe4f979a95e9d6c0,P0082,Hydrating Serum,Beauty,Skincare,473.45123198881373,613.92
+64ea5e09fe4f979a95e9d6c1,P0083,Mascara,Beauty,Makeup,338.883915735506,434.64
+64ea5e09fe4f979a95e9d6c2,P0084,Pride and Prejudice by Jane Austen,Books,Fiction,403.74409693751187,562.71
+64ea5e09fe4f979a95e9d6c3,P0085,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,437.3717382095046,604.25
+64ea5e09fe4f979a95e9d6c4,P0086,V-Neck Solid Color Tee,Clothing,T-Shirts,351.591945722179,434.69
+64ea5e09fe4f979a95e9d6c5,P0087,Graphic Print Tee,Clothing,T-Shirts,496.97976144903384,721.45
+64ea5e09fe4f979a95e9d6c6,P0088,Hydrating Serum,Beauty,Skincare,55.43537147191787,73.13
+64ea5e09fe4f979a95e9d6c7,P0089,High-Waisted Mom Jeans,Clothing,Jeans,176.59583239035211,222.65
+64ea5e09fe4f979a95e9d6c8,P0090,V-Neck Solid Color Tee,Clothing,T-Shirts,243.88418575439297,333.73
+64ea5e09fe4f979a95e9d6c9,P0091,Sunscreen SPF 50+,Beauty,Skincare,234.45184226447495,283.23
+64ea5e09fe4f979a95e9d6ca,P0092,Mascara,Beauty,Makeup,309.11773879531904,438.68
+64ea5e09fe4f979a95e9d6cb,P0093,Off-Shoulder Midi Dress,Clothing,Dresses,394.88901825790805,482.74
+64ea5e09fe4f979a95e9d6cc,P0094,The Da Vinci Code by Dan Brown,Books,Mystery,368.03141015478474,472.93
+64ea5e09fe4f979a95e9d6cd,P0095,Cutlery Knife Block Set,Home,Kitchenware,223.60611824470158,300.99
+64ea5e09fe4f979a95e9d6ce,P0096,Big Little Lies by Liane Moriarty,Books,Mystery,104.72057658939065,131.54
+64ea5e09fe4f979a95e9d6cf,P0097,Panasonic Lumix GH5,Electronics,Cameras,398.7218347527143,553.51
+64ea5e09fe4f979a95e9d6d0,P0098,Crewneck Wool Sweater,Clothing,Sweaters,316.6977680485933,398.6
+64ea5e09fe4f979a95e9d6d1,P0099,MacBook Pro,Electronics,Laptops,27.415726674602602,33.08
+64ea5e09fe4f979a95e9d6d2,P0100,Ceramic Vases,Home,Decor,235.3365953028756,326.9
+64ea5e09fe4f979a95e9d6d3,P0101,Eau de Parfum Spray,Beauty,Fragrance,440.6789327222277,657.48
+64ea5e09fe4f979a95e9d6d4,P0102,iPhone 13,Electronics,Mobile Phones,478.8487224730533,640.12
+64ea5e09fe4f979a95e9d6d5,P0103,Heat Protectant Spray,Beauty,Haircare,471.23789877773356,631.03
+64ea5e09fe4f979a95e9d6d6,P0104,OnePlus 9,Electronics,Mobile Phones,445.54897125266575,654.19
+64ea5e09fe4f979a95e9d6d7,P0105,The Power of Habit by Charles Duhigg,Books,Non-Fiction,432.7186896990157,644.27
+64ea5e09fe4f979a95e9d6d8,P0106,Striped Polo Shirt,Clothing,T-Shirts,24.193010928347157,34.93
+64ea5e09fe4f979a95e9d6d9,P0107,Samsung Galaxy S21,Electronics,Mobile Phones,398.78644725670915,499.29
+64ea5e09fe4f979a95e9d6da,P0108,Eau de Parfum Spray,Beauty,Fragrance,147.70273056971882,202.63
+64ea5e09fe4f979a95e9d6db,P0109,Eyeshadow Palette,Beauty,Makeup,272.92054423952175,361.76
+64ea5e09fe4f979a95e9d6dc,P0110,Woody Eau de Toilette,Beauty,Fragrance,237.1109192370288,350.68
+64ea5e09fe4f979a95e9d6dd,P0111,Cutlery Knife Block Set,Home,Kitchenware,464.14384672890804,581.53
+64ea5e09fe4f979a95e9d6de,P0112,Fit-and-Flare Party Dress,Clothing,Dresses,441.997164216633,608.66
+64ea5e09fe4f979a95e9d6df,P0113,Bootcut Jeans,Clothing,Jeans,13.83029686180997,17.87
+64ea5e09fe4f979a95e9d6e0,P0114,Mid-Century Modern Sofa,Home,Furniture,114.48922760394916,143.69
+64ea5e09fe4f979a95e9d6e1,P0115,Hair Oil Treatment,Beauty,Haircare,59.34554816408405,84.95
+64ea5e09fe4f979a95e9d6e2,P0116,Olympus OM-D E-M5 Mark III,Electronics,Cameras,121.44722605425315,145.89
+64ea5e09fe4f979a95e9d6e3,P0117,Bose QuietComfort 35,Electronics,Headphones,110.64027897612355,146.37
+64ea5e09fe4f979a95e9d6e4,P0118,Cutlery Knife Block Set,Home,Kitchenware,92.87013668111838,131.54
+64ea5e09fe4f979a95e9d6e5,P0119,Daring Greatly by Brené Brown,Books,Self-Help,316.55997584499164,470.45
+64ea5e09fe4f979a95e9d6e6,P0120,Mascara,Beauty,Makeup,414.561760063227,616.39
+64ea5e09fe4f979a95e9d6e7,P0121,Mascara,Beauty,Makeup,415.92490955598225,546.85
+64ea5e09fe4f979a95e9d6e8,P0122,Upholstered Accent Chair,Home,Furniture,353.7023762396579,478.07
+64ea5e09fe4f979a95e9d6e9,P0123,You Are a Badass by Jen Sincero,Books,Self-Help,470.1111655409229,600.67
+64ea5e09fe4f979a95e9d6ea,P0124,OnePlus 9,Electronics,Mobile Phones,346.84483980502563,441.08
+64ea5e09fe4f979a95e9d6eb,P0125,You Are a Badass by Jen Sincero,Books,Self-Help,254.79502700664963,359.96
+64ea5e09fe4f979a95e9d6ec,P0126,Becoming by Michelle Obama,Books,Non-Fiction,97.72857052810566,138.95
+64ea5e09fe4f979a95e9d6ed,P0127,Artificial Plants Set,Home,Decor,18.60467749180084,24.3
+64ea5e09fe4f979a95e9d6ee,P0128,Hair Oil Treatment,Beauty,Haircare,404.8015551260427,584.31
+64ea5e09fe4f979a95e9d6ef,P0129,Athletic Performance Shirt,Clothing,T-Shirts,374.0229526773417,467.48
+64ea5e09fe4f979a95e9d6f0,P0130,Cardigan with Buttons,Clothing,Sweaters,469.39666543775235,650.12
+64ea5e09fe4f979a95e9d6f1,P0131,Platform Bed with Storage,Home,Furniture,473.6371818903289,585.92
+64ea5e09fe4f979a95e9d6f2,P0132,Citrus Cologne,Beauty,Fragrance,274.83799775143945,385.96
+64ea5e09fe4f979a95e9d6f3,P0133,Sheet Masks Set,Beauty,Skincare,97.95584875360242,142.01
+64ea5e09fe4f979a95e9d6f4,P0134,Jabra Elite 85t,Electronics,Headphones,288.5720019174597,370.42
+64ea5e09fe4f979a95e9d6f5,P0135,Athletic Performance Shirt,Clothing,T-Shirts,108.57477600103223,140.94
+64ea5e09fe4f979a95e9d6f6,P0136,You Are a Badass by Jen Sincero,Books,Self-Help,423.73632307647637,614.75
+64ea5e09fe4f979a95e9d6f7,P0137,Hair Mask,Beauty,Haircare,154.61632997569265,224.01
+64ea5e09fe4f979a95e9d6f8,P0138,Citrus Cologne,Beauty,Fragrance,312.5647873266848,383.04
+64ea5e09fe4f979a95e9d6f9,P0139,Upholstered Accent Chair,Home,Furniture,219.15073868351195,292.15
+64ea5e09fe4f979a95e9d6fa,P0140,AirPods Pro,Electronics,Headphones,295.4683045689003,419.15
+64ea5e09fe4f979a95e9d6fb,P0141,Eyeshadow Palette,Beauty,Makeup,216.4256834817051,311.23
+64ea5e09fe4f979a95e9d6fc,P0142,Dell XPS 15,Electronics,Laptops,35.24120358107158,52.51
+64ea5e09fe4f979a95e9d6fd,P0143,Sunscreen SPF 50+,Beauty,Skincare,214.586558889156,270.32
+64ea5e09fe4f979a95e9d6fe,P0144,Pride and Prejudice by Jane Austen,Books,Fiction,496.4989033585616,738.54
+64ea5e09fe4f979a95e9d6ff,P0145,To Kill a Mockingbird by Harper Lee,Books,Fiction,196.84158132553623,280.78
+64ea5e09fe4f979a95e9d700,P0146,You Are a Badass by Jen Sincero,Books,Self-Help,222.85667767748197,331.1
+64ea5e09fe4f979a95e9d701,P0147,Turtleneck Cashmere Sweater,Clothing,Sweaters,390.2282658339531,475.29
+64ea5e09fe4f979a95e9d702,P0148,Samsung Galaxy S21,Electronics,Mobile Phones,332.094791346378,414.99
+64ea5e09fe4f979a95e9d703,P0149,Athletic Performance Shirt,Clothing,T-Shirts,473.3370646797016,664.93
+64ea5e09fe4f979a95e9d704,P0150,Atomic Habits by James Clear,Books,Self-Help,158.05709066225094,217.73
+64ea5e09fe4f979a95e9d705,P0151,Liquid Lipstick,Beauty,Makeup,455.9059585981635,558.61
+64ea5e09fe4f979a95e9d706,P0152,Big Little Lies by Liane Moriarty,Books,Mystery,474.79208589890663,584.05
+64ea5e09fe4f979a95e9d707,P0153,Bootcut Jeans,Clothing,Jeans,208.45960861543978,292.96
+64ea5e09fe4f979a95e9d708,P0154,Air Purifier,Home,Appliances,360.5023540850238,442.91
+64ea5e09fe4f979a95e9d709,P0155,The Power of Habit by Charles Duhigg,Books,Non-Fiction,215.47891218385874,270.84
+64ea5e09fe4f979a95e9d70a,P0156,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,268.22859106502733,366.73
+64ea5e09fe4f979a95e9d70b,P0157,Foundation with SPF,Beauty,Makeup,495.78724673121053,601.1
+64ea5e09fe4f979a95e9d70c,P0158,The Girl on the Train by Paula Hawkins,Books,Mystery,475.23996448894974,658.08
+64ea5e09fe4f979a95e9d70d,P0159,Eau de Parfum Spray,Beauty,Fragrance,493.258715798246,715.16
+64ea5e09fe4f979a95e9d70e,P0160,Canvas Wall Art,Home,Decor,120.6632545006173,161.69
+64ea5e09fe4f979a95e9d70f,P0161,Sunscreen SPF 50+,Beauty,Skincare,24.935077988234852,30.78
+64ea5e09fe4f979a95e9d710,P0162,Fujifilm X-T4,Electronics,Cameras,409.55527806936055,560.05
+64ea5e09fe4f979a95e9d711,P0163,Blender,Home,Kitchenware,300.12514288836405,387.55
+64ea5e09fe4f979a95e9d712,P0164,Dell XPS 15,Electronics,Laptops,454.36465823169374,645.99
+64ea5e09fe4f979a95e9d713,P0165,The Subtle Art of Not Giving a Fuck by Mark Manson,Books,Self-Help,356.7193735476545,457.86
+64ea5e09fe4f979a95e9d714,P0166,Hydrating Serum,Beauty,Skincare,248.13365505464165,371.15
+64ea5e09fe4f979a95e9d715,P0167,Striped Polo Shirt,Clothing,T-Shirts,432.43598002700304,646.84
+64ea5e09fe4f979a95e9d716,P0168,Bose QuietComfort 35,Electronics,Headphones,36.64153868296775,50.24
+64ea5e09fe4f979a95e9d717,P0169,Becoming by Michelle Obama,Books,Non-Fiction,395.25143041782997,516.44
+64ea5e09fe4f979a95e9d718,P0170,Big Little Lies by Liane Moriarty,Books,Mystery,378.89472145426896,525.49
+64ea5e09fe4f979a95e9d719,P0171,Floral Perfume,Beauty,Fragrance,344.58677105108075,513.23
+64ea5e09fe4f979a95e9d71a,P0172,Heat Protectant Spray,Beauty,Haircare,220.35423123824458,312.39
+64ea5e09fe4f979a95e9d71b,P0173,Graphic Print Tee,Clothing,T-Shirts,304.7966411616914,405.03
+64ea5e09fe4f979a95e9d71c,P0174,Sony Alpha A7 III,Electronics,Cameras,466.87206919725224,577.92
+64ea5e09fe4f979a95e9d71d,P0175,Hair Mask,Beauty,Haircare,425.3871720574971,622.95
+64ea5e09fe4f979a95e9d71e,P0176,Conditioner for Damaged Hair,Beauty,Haircare,216.30333413742906,303.45
+64ea5e09fe4f979a95e9d71f,P0177,Panasonic Lumix GH5,Electronics,Cameras,436.9817768668907,628.34
+64ea5e09fe4f979a95e9d720,P0178,Hair Mask,Beauty,Haircare,37.85828496327635,52.23
+64ea5e09fe4f979a95e9d721,P0179,Upholstered Accent Chair,Home,Furniture,325.50467988693777,403.95
+64ea5e09fe4f979a95e9d722,P0180,Food Processor,Home,Appliances,253.88501451947815,375.69
+64ea5e09fe4f979a95e9d723,P0181,Bose QuietComfort 35,Electronics,Headphones,146.70053777399505,212.6
+64ea5e09fe4f979a95e9d724,P0182,Hair Oil Treatment,Beauty,Haircare,460.9273381177517,607.76
+64ea5e09fe4f979a95e9d725,P0183,Cardigan with Buttons,Clothing,Sweaters,177.82768157113625,233.67
+64ea5e09fe4f979a95e9d726,P0184,Chunky Knit Pullover,Clothing,Sweaters,451.69822083581926,661.47
+64ea5e09fe4f979a95e9d727,P0185,Daring Greatly by Brené Brown,Books,Self-Help,167.99371564333453,206.62
+64ea5e09fe4f979a95e9d728,P0186,The Power of Habit by Charles Duhigg,Books,Non-Fiction,274.39768103509664,355.73
+64ea5e09fe4f979a95e9d729,P0187,High-Waisted Mom Jeans,Clothing,Jeans,120.77522410951222,171.82
+64ea5e09fe4f979a95e9d72a,P0188,Wrap Dress,Clothing,Dresses,242.07293977720482,321.93
+64ea5e09fe4f979a95e9d72b,P0189,Solid Wood Dining Table,Home,Furniture,42.76094267765036,62.29
+64ea5e09fe4f979a95e9d72c,P0190,MacBook Pro,Electronics,Laptops,69.6887172187767,95.52
+64ea5e09fe4f979a95e9d72d,P0191,Smart Thermostat,Home,Appliances,158.61248499760075,202.43
+64ea5e09fe4f979a95e9d72e,P0192,Retinol Cream,Beauty,Skincare,252.57180133306986,368.38
+64ea5e09fe4f979a95e9d72f,P0193,Mascara,Beauty,Makeup,13.874998744111629,17.23
+64ea5e09fe4f979a95e9d730,P0194,Atomic Habits by James Clear,Books,Self-Help,52.86033974895297,66.36
+64ea5e09fe4f979a95e9d731,P0195,The Girl on the Train by Paula Hawkins,Books,Mystery,15.923571237579552,19.2
+64ea5e09fe4f979a95e9d732,P0196,Sony Alpha A7 III,Electronics,Cameras,426.25925353745987,624.39
+64ea5e09fe4f979a95e9d733,P0197,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,95.86337506583985,133.65
+64ea5e09fe4f979a95e9d734,P0198,Hair Oil Treatment,Beauty,Haircare,175.83800916161564,240.45
+64ea5e09fe4f979a95e9d735,P0199,Becoming by Michelle Obama,Books,Non-Fiction,55.938556489110425,78.19
+64ea5e09fe4f979a95e9d736,P0200,Sony Alpha A7 III,Electronics,Cameras,413.03436297675,545.02
+64ea5e09fe4f979a95e9d737,P0201,Athletic Performance Shirt,Clothing,T-Shirts,433.14701703033717,647.89
+64ea5e09fe4f979a95e9d738,P0202,Blender,Home,Kitchenware,392.8366719863504,534.93
+64ea5e09fe4f979a95e9d739,P0203,Gone Girl by Gillian Flynn,Books,Mystery,41.251764950406866,60.34
+64ea5e09fe4f979a95e9d73a,P0204,Lenovo ThinkPad X1,Electronics,Laptops,248.24098529492636,368.87
+64ea5e09fe4f979a95e9d73b,P0205,Fujifilm X-T4,Electronics,Cameras,98.80151612579908,133.66
+64ea5e09fe4f979a95e9d73c,P0206,Slim Fit Denim Jeans,Clothing,Jeans,174.65869399857004,261.94
+64ea5e09fe4f979a95e9d73d,P0207,Mid-Century Modern Sofa,Home,Furniture,206.07955548397325,277.61
+64ea5e09fe4f979a95e9d73e,P0208,Boho Floral Dress,Clothing,Dresses,155.63041894128278,189.82
+64ea5e09fe4f979a95e9d73f,P0209,Bootcut Jeans,Clothing,Jeans,20.683077298134016,30.42
+64ea5e09fe4f979a95e9d740,P0210,Hair Oil Treatment,Beauty,Haircare,294.0605923417424,385.87
+64ea5e09fe4f979a95e9d741,P0211,High-Waisted Mom Jeans,Clothing,Jeans,24.280445850343874,32.22
+64ea5e09fe4f979a95e9d742,P0212,Canon EOS 5D Mark IV,Electronics,Cameras,354.3128347267833,477.15
+64ea5e09fe4f979a95e9d743,P0213,Retinol Cream,Beauty,Skincare,304.7187773522807,424.2
+64ea5e09fe4f979a95e9d744,P0214,Liquid Lipstick,Beauty,Makeup,163.97060147230962,210.77
+64ea5e09fe4f979a95e9d745,P0215,Eyeshadow Palette,Beauty,Makeup,435.74935258188833,600.32
+64ea5e09fe4f979a95e9d746,P0216,V-Neck Solid Color Tee,Clothing,T-Shirts,381.43063823880385,463.08
+64ea5e09fe4f979a95e9d747,P0217,Highlighter Stick,Beauty,Makeup,488.83179291095314,670.06
+64ea5e09fe4f979a95e9d748,P0218,To Kill a Mockingbird by Harper Lee,Books,Fiction,221.98535750780994,299.15
+64ea5e09fe4f979a95e9d749,P0219,Bootcut Jeans,Clothing,Jeans,287.2334154896041,415.84
+64ea5e09fe4f979a95e9d74a,P0220,Nikon Z6 II,Electronics,Cameras,412.8553425132015,519.89
+64ea5e09fe4f979a95e9d74b,P0221,Panasonic Lumix GH5,Electronics,Cameras,54.390442755834044,72.09
+64ea5e09fe4f979a95e9d74c,P0222,Sapiens by Yuval Noah Harari,Books,Non-Fiction,105.72571031038655,131.25
+64ea5e09fe4f979a95e9d74d,P0223,Robot Vacuum Cleaner,Home,Appliances,261.3109529998238,390.66
+64ea5e09fe4f979a95e9d74e,P0224,Sapiens by Yuval Noah Harari,Books,Non-Fiction,255.83425413278206,357.12
+64ea5e09fe4f979a95e9d74f,P0225,Straight Leg Jeans,Clothing,Jeans,211.49956403971296,315.2
+64ea5e09fe4f979a95e9d750,P0226,Bose QuietComfort 35,Electronics,Headphones,275.9716791324709,341.95
+64ea5e09fe4f979a95e9d751,P0227,Sapiens by Yuval Noah Harari,Books,Non-Fiction,416.7971758770448,580.41
+64ea5e09fe4f979a95e9d752,P0228,Artificial Plants Set,Home,Decor,379.8543588654051,544.39
+64ea5e09fe4f979a95e9d753,P0229,The Power of Habit by Charles Duhigg,Books,Non-Fiction,403.9255840471137,591.77
+64ea5e09fe4f979a95e9d754,P0230,Sennheiser HD 660S,Electronics,Headphones,55.51123840799534,83.15
+64ea5e09fe4f979a95e9d755,P0231,High-Waisted Mom Jeans,Clothing,Jeans,102.46710789105019,134.62
+64ea5e09fe4f979a95e9d756,P0232,Hydrating Serum,Beauty,Skincare,331.5027281333119,403.33
+64ea5e09fe4f979a95e9d757,P0233,Air Purifier,Home,Appliances,200.40770383613565,268.46
+64ea5e09fe4f979a95e9d758,P0234,Gone Girl by Gillian Flynn,Books,Mystery,432.31837512958515,524.44
+64ea5e09fe4f979a95e9d759,P0235,Bootcut Jeans,Clothing,Jeans,379.30954483304725,486.71
+64ea5e09fe4f979a95e9d75a,P0236,Ceramic Vases,Home,Decor,433.9645288106626,533.5
+64ea5e09fe4f979a95e9d75b,P0237,You Are a Badass by Jen Sincero,Books,Self-Help,207.34514288731492,268.73
+64ea5e09fe4f979a95e9d75c,P0238,Stainless Steel Cookware Set,Home,Kitchenware,191.65211823988795,284.1
+64ea5e09fe4f979a95e9d75d,P0239,Coffee Maker,Home,Kitchenware,234.87878999903296,349.81
+64ea5e09fe4f979a95e9d75e,P0240,Dell XPS 15,Electronics,Laptops,93.19637017196034,134
+64ea5e09fe4f979a95e9d75f,P0241,The Da Vinci Code by Dan Brown,Books,Mystery,196.72962931478685,261.92
+64ea5e09fe4f979a95e9d760,P0242,Dell XPS 15,Electronics,Laptops,263.90072603228725,376.6
+64ea5e09fe4f979a95e9d761,P0243,Atomic Habits by James Clear,Books,Self-Help,153.10756889309775,204.12
+64ea5e09fe4f979a95e9d762,P0244,Bootcut Jeans,Clothing,Jeans,148.45425377872795,216.83
+64ea5e09fe4f979a95e9d763,P0245,Food Processor,Home,Appliances,110.58064208671205,162.98
+64ea5e09fe4f979a95e9d764,P0246,Turtleneck Cashmere Sweater,Clothing,Sweaters,46.91912283128501,68.32
+64ea5e09fe4f979a95e9d765,P0247,Citrus Cologne,Beauty,Fragrance,96.63307082364864,133.83
+64ea5e09fe4f979a95e9d766,P0248,Retinol Cream,Beauty,Skincare,95.217134981432,129.43
+64ea5e09fe4f979a95e9d767,P0249,Floral Perfume,Beauty,Fragrance,460.69177951889696,621.84
+64ea5e09fe4f979a95e9d768,P0250,Big Little Lies by Liane Moriarty,Books,Mystery,189.6282976183247,248.52
+64ea5e09fe4f979a95e9d769,P0251,Hydrating Serum,Beauty,Skincare,44.725808148796126,60.43
+64ea5e09fe4f979a95e9d76a,P0252,Graphic Print Tee,Clothing,T-Shirts,348.1613169675446,455.85
+64ea5e09fe4f979a95e9d76b,P0253,AirPods Pro,Electronics,Headphones,224.92119005720787,297.68
+64ea5e09fe4f979a95e9d76c,P0254,Woody Eau de Toilette,Beauty,Fragrance,177.15105603323795,241.9
+64ea5e09fe4f979a95e9d76d,P0255,Smart Thermostat,Home,Appliances,343.57619996110265,511.14
+64ea5e09fe4f979a95e9d76e,P0256,Smart Thermostat,Home,Appliances,426.594443876654,566.98
+64ea5e09fe4f979a95e9d76f,P0257,Platform Bed with Storage,Home,Furniture,326.3210510018328,456.22
+64ea5e09fe4f979a95e9d770,P0258,Upholstered Accent Chair,Home,Furniture,499.14750201383623,718.32
+64ea5e09fe4f979a95e9d771,P0259,Dell XPS 15,Electronics,Laptops,98.48449379505337,127.31
+64ea5e09fe4f979a95e9d772,P0260,Food Processor,Home,Appliances,27.878241280582163,34.24
+64ea5e09fe4f979a95e9d773,P0261,The Power of Habit by Charles Duhigg,Books,Non-Fiction,45.796456744920384,67.56
+64ea5e09fe4f979a95e9d774,P0262,Hair Mask,Beauty,Haircare,498.45983468699717,635.8
+64ea5e09fe4f979a95e9d775,P0263,Liquid Lipstick,Beauty,Makeup,201.78762852225782,255.77
+64ea5e09fe4f979a95e9d776,P0264,V-Neck Solid Color Tee,Clothing,T-Shirts,142.55003048633787,197.51
+64ea5e09fe4f979a95e9d777,P0265,Upholstered Accent Chair,Home,Furniture,297.7844051941755,407.71
+64ea5e09fe4f979a95e9d778,P0266,Maxi Sundress,Clothing,Dresses,86.69153526953431,128.83
+64ea5e09fe4f979a95e9d779,P0267,Sunscreen SPF 50+,Beauty,Skincare,182.55194614022577,235.41
+64ea5e09fe4f979a95e9d77a,P0268,Athletic Performance Shirt,Clothing,T-Shirts,82.50494140990514,103.17
+64ea5e09fe4f979a95e9d77b,P0269,The Subtle Art of Not Giving a Fuck by Mark Manson,Books,Self-Help,349.7555229753774,479.58
+64ea5e09fe4f979a95e9d77c,P0270,Mid-Century Modern Sofa,Home,Furniture,356.50577499699597,512.9
+64ea5e09fe4f979a95e9d77d,P0271,Sapiens by Yuval Noah Harari,Books,Non-Fiction,29.391594737502196,42.82
+64ea5e09fe4f979a95e9d77e,P0272,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,395.01981230028974,559.1
+64ea5e09fe4f979a95e9d77f,P0273,Blender,Home,Kitchenware,482.8431599942015,628.02
+64ea5e09fe4f979a95e9d780,P0274,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,42.86669331766137,53.03
+64ea5e09fe4f979a95e9d781,P0275,Retinol Cream,Beauty,Skincare,48.5846172615969,59.89
+64ea5e09fe4f979a95e9d782,P0276,Off-Shoulder Midi Dress,Clothing,Dresses,272.5688901992294,365.4
+64ea5e09fe4f979a95e9d783,P0277,The Da Vinci Code by Dan Brown,Books,Mystery,39.02512743483778,54.98
+64ea5e09fe4f979a95e9d784,P0278,Straight Leg Jeans,Clothing,Jeans,375.0668338253889,502.25
+64ea5e09fe4f979a95e9d785,P0279,Sony Alpha A7 III,Electronics,Cameras,133.19428704126537,195.17
+64ea5e09fe4f979a95e9d786,P0280,HP Spectre x360,Electronics,Laptops,206.3029318414354,287.13
+64ea5e09fe4f979a95e9d787,P0281,Sunscreen SPF 50+,Beauty,Skincare,37.348762879799295,50.13
+64ea5e09fe4f979a95e9d788,P0282,Woody Eau de Toilette,Beauty,Fragrance,174.908844066766,242.05
+64ea5e09fe4f979a95e9d789,P0283,Cleansing Oil,Beauty,Skincare,87.5469927892563,128.47
+64ea5e09fe4f979a95e9d78a,P0284,Artificial Plants Set,Home,Decor,427.7356592740555,574.05
+64ea5e09fe4f979a95e9d78b,P0285,Big Little Lies by Liane Moriarty,Books,Mystery,229.3264449865536,307.97
+64ea5e09fe4f979a95e9d78c,P0286,Hair Mask,Beauty,Haircare,132.64420215775436,170.35
+64ea5e09fe4f979a95e9d78d,P0287,Nikon Z6 II,Electronics,Cameras,139.11682168111707,171.27
+64ea5e09fe4f979a95e9d78e,P0288,Turtleneck Cashmere Sweater,Clothing,Sweaters,344.15417710303683,508.92
+64ea5e09fe4f979a95e9d78f,P0289,Hair Mask,Beauty,Haircare,393.1043894099225,485.93
+64ea5e09fe4f979a95e9d790,P0290,Straight Leg Jeans,Clothing,Jeans,275.3091556646044,366.01
+64ea5e09fe4f979a95e9d791,P0291,The Girl on the Train by Paula Hawkins,Books,Mystery,371.109537562535,507.66
+64ea5e09fe4f979a95e9d792,P0292,"Thinking, Fast and Slow by Daniel Kahneman",Books,Non-Fiction,33.46434940609875,42.93
+64ea5e09fe4f979a95e9d793,P0293,Stainless Steel Cookware Set,Home,Kitchenware,330.5902243500339,482.48
+64ea5e09fe4f979a95e9d794,P0294,Cutlery Knife Block Set,Home,Kitchenware,249.14245728680268,369.59
+64ea5e09fe4f979a95e9d795,P0295,Retinol Cream,Beauty,Skincare,46.72311729249837,61.84
+64ea5e09fe4f979a95e9d796,P0296,Canvas Wall Art,Home,Decor,234.502175643795,330.62
+64ea5e09fe4f979a95e9d797,P0297,Samsung Galaxy S21,Electronics,Mobile Phones,123.88700954214804,154.38
+64ea5e09fe4f979a95e9d798,P0298,Sony WH-1000XM4,Electronics,Headphones,176.18666493466844,246.32
+64ea5e09fe4f979a95e9d799,P0299,Eyeshadow Palette,Beauty,Makeup,35.18478725646019,44.1
+64ea5e09fe4f979a95e9d79a,P0300,Hydrating Serum,Beauty,Skincare,266.083992225542,372.34
+64ea5e09fe4f979a95e9d79b,P0301,Beats Studio Buds,Electronics,Headphones,349.2468433228276,475.17
+64ea5e09fe4f979a95e9d79c,P0302,Becoming by Michelle Obama,Books,Non-Fiction,221.3563730286382,320.53
+64ea5e09fe4f979a95e9d79d,P0303,Robot Vacuum Cleaner,Home,Appliances,274.68551199969016,385.17
+64ea5e09fe4f979a95e9d79e,P0304,Citrus Cologne,Beauty,Fragrance,485.3247883954408,582.52
+64ea5e09fe4f979a95e9d79f,P0305,Coffee Maker,Home,Kitchenware,72.92505096045471,95.83
+64ea5e09fe4f979a95e9d7a0,P0306,Retinol Cream,Beauty,Skincare,159.32453870639523,224.18
+64ea5e09fe4f979a95e9d7a1,P0307,Beats Studio Buds,Electronics,Headphones,203.23659057915822,247.59
+64ea5e09fe4f979a95e9d7a2,P0308,Canvas Wall Art,Home,Decor,76.83957108577106,96.81
+64ea5e09fe4f979a95e9d7a3,P0309,Espresso Machine,Home,Appliances,131.95312803594962,192.84
+64ea5e09fe4f979a95e9d7a4,P0310,Eyeshadow Palette,Beauty,Makeup,200.57643612974047,259.29
+64ea5e09fe4f979a95e9d7a5,P0311,V-Neck Solid Color Tee,Clothing,T-Shirts,143.65528150924482,192.65
+64ea5e09fe4f979a95e9d7a6,P0312,Canvas Wall Art,Home,Decor,268.09167654873244,338.87
+64ea5e09fe4f979a95e9d7a7,P0313,Blender,Home,Kitchenware,280.79104159119055,386.83
+64ea5e09fe4f979a95e9d7a8,P0314,1984 by George Orwell,Books,Fiction,14.859281072346546,18.89
+64ea5e09fe4f979a95e9d7a9,P0315,Woody Eau de Toilette,Beauty,Fragrance,179.02054784514615,260.34
+64ea5e09fe4f979a95e9d7aa,P0316,Canon EOS 5D Mark IV,Electronics,Cameras,122.08327760463871,161.22
+64ea5e09fe4f979a95e9d7ab,P0317,Sheet Masks Set,Beauty,Skincare,28.977436473360502,40.25
+64ea5e09fe4f979a95e9d7ac,P0318,MacBook Pro,Electronics,Laptops,427.54220059556326,576.34
+64ea5e09fe4f979a95e9d7ad,P0319,Straight Leg Jeans,Clothing,Jeans,93.13920529114357,114.42
+64ea5e09fe4f979a95e9d7ae,P0320,Food Processor,Home,Appliances,108.10722160989705,135.3
+64ea5e09fe4f979a95e9d7af,P0321,Basic Cotton T-Shirt,Clothing,T-Shirts,305.81787205610044,426.01
+64ea5e09fe4f979a95e9d7b0,P0322,Retinol Cream,Beauty,Skincare,422.4305133515566,602.04
+64ea5e09fe4f979a95e9d7b1,P0323,Gone Girl by Gillian Flynn,Books,Mystery,374.5443256321581,479.38
+64ea5e09fe4f979a95e9d7b2,P0324,To Kill a Mockingbird by Harper Lee,Books,Fiction,432.49994009315526,556.11
+64ea5e09fe4f979a95e9d7b3,P0325,Basic Cotton T-Shirt,Clothing,T-Shirts,140.91319039232164,179.13
+64ea5e09fe4f979a95e9d7b4,P0326,Pride and Prejudice by Jane Austen,Books,Fiction,91.90150078292935,118.15
+64ea5e09fe4f979a95e9d7b5,P0327,Nikon Z6 II,Electronics,Cameras,205.9182400287649,276.44
+64ea5e09fe4f979a95e9d7b6,P0328,Sony WH-1000XM4,Electronics,Headphones,399.5913505755523,577.45
+64ea5e09fe4f979a95e9d7b7,P0329,Wall Clock,Home,Decor,242.4510668663599,325.47
+64ea5e09fe4f979a95e9d7b8,P0330,You Are a Badass by Jen Sincero,Books,Self-Help,426.29348404195446,622.49
+64ea5e09fe4f979a95e9d7b9,P0331,Atomic Habits by James Clear,Books,Self-Help,167.87191057996483,222.64
+64ea5e09fe4f979a95e9d7ba,P0332,Off-Shoulder Midi Dress,Clothing,Dresses,322.3067449389135,429.37
+64ea5e09fe4f979a95e9d7bb,P0333,Ceramic Vases,Home,Decor,426.06364107908144,569.85
+64ea5e09fe4f979a95e9d7bc,P0334,Sunscreen SPF 50+,Beauty,Skincare,440.74315566153854,567.37
+64ea5e09fe4f979a95e9d7bd,P0335,Hair Mask,Beauty,Haircare,397.017800565058,586.67
+64ea5e09fe4f979a95e9d7be,P0336,Cutlery Knife Block Set,Home,Kitchenware,228.58040092861992,290.14
+64ea5e09fe4f979a95e9d7bf,P0337,Conditioner for Damaged Hair,Beauty,Haircare,300.67402782694404,415.17
+64ea5e09fe4f979a95e9d7c0,P0338,Acer Swift 3,Electronics,Laptops,108.89127069181767,145.2
+64ea5e09fe4f979a95e9d7c1,P0339,HP Spectre x360,Electronics,Laptops,346.8042085817842,441.48
+64ea5e09fe4f979a95e9d7c2,P0340,Dell XPS 15,Electronics,Laptops,240.66354355227398,324.83
+64ea5e09fe4f979a95e9d7c3,P0341,Atomic Habits by James Clear,Books,Self-Help,119.52861818265099,160.91
+64ea5e09fe4f979a95e9d7c4,P0342,Woody Eau de Toilette,Beauty,Fragrance,89.73537997057615,114.42
+64ea5e09fe4f979a95e9d7c5,P0343,Solid Wood Dining Table,Home,Furniture,385.1749436688914,577.75
+64ea5e09fe4f979a95e9d7c6,P0344,Panasonic Lumix GH5,Electronics,Cameras,37.65996986762282,49.05
+64ea5e09fe4f979a95e9d7c7,P0345,Coffee Maker,Home,Kitchenware,467.7177894962836,635.11
+64ea5e09fe4f979a95e9d7c8,P0346,Decorative Throw Pillows,Home,Decor,117.97918868368374,161.03
+64ea5e09fe4f979a95e9d7c9,P0347,Heat Protectant Spray,Beauty,Haircare,442.14072330193653,550.34
+64ea5e09fe4f979a95e9d7ca,P0348,Off-Shoulder Midi Dress,Clothing,Dresses,230.00751363127986,309.92
+64ea5e09fe4f979a95e9d7cb,P0349,Distressed Skinny Jeans,Clothing,Jeans,488.05406828002475,712.69
+64ea5e09fe4f979a95e9d7cc,P0350,V-Neck Solid Color Tee,Clothing,T-Shirts,407.35073895105853,509.79
+64ea5e09fe4f979a95e9d7cd,P0351,Distressed Skinny Jeans,Clothing,Jeans,17.984468538788793,26.31
+64ea5e09fe4f979a95e9d7ce,P0352,Fujifilm X-T4,Electronics,Cameras,343.92938862468407,512.33
+64ea5e09fe4f979a95e9d7cf,P0353,Hair Oil Treatment,Beauty,Haircare,380.4793331773476,487.18
+64ea5e09fe4f979a95e9d7d0,P0354,Blender,Home,Kitchenware,465.52672893767425,573.91
+64ea5e09fe4f979a95e9d7d1,P0355,V-Neck Solid Color Tee,Clothing,T-Shirts,344.8185033085211,482.83
+64ea5e09fe4f979a95e9d7d2,P0356,Cutlery Knife Block Set,Home,Kitchenware,333.2178102832508,425.8
+64ea5e09fe4f979a95e9d7d3,P0357,Canon EOS 5D Mark IV,Electronics,Cameras,45.13927701688669,66.12
+64ea5e09fe4f979a95e9d7d4,P0358,Sapiens by Yuval Noah Harari,Books,Non-Fiction,210.30672966749114,299.06
+64ea5e09fe4f979a95e9d7d5,P0359,The Da Vinci Code by Dan Brown,Books,Mystery,153.6622000132985,219.83
+64ea5e09fe4f979a95e9d7d6,P0360,Citrus Cologne,Beauty,Fragrance,173.2067444422871,234.6
+64ea5e09fe4f979a95e9d7d7,P0361,"Thinking, Fast and Slow by Daniel Kahneman",Books,Non-Fiction,443.94371033002614,567.45
+64ea5e09fe4f979a95e9d7d8,P0362,The Da Vinci Code by Dan Brown,Books,Mystery,398.787995325259,486.37
+64ea5e09fe4f979a95e9d7d9,P0363,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,231.31699978913602,314.9
+64ea5e09fe4f979a95e9d7da,P0364,Smart Thermostat,Home,Appliances,405.9768992210496,527.62
+64ea5e09fe4f979a95e9d7db,P0365,Fit-and-Flare Party Dress,Clothing,Dresses,285.7956735527192,416.51
+64ea5e09fe4f979a95e9d7dc,P0366,To Kill a Mockingbird by Harper Lee,Books,Fiction,49.907228949684004,73.19
+64ea5e09fe4f979a95e9d7dd,P0367,Distressed Skinny Jeans,Clothing,Jeans,233.23010947813924,280.59
+64ea5e09fe4f979a95e9d7de,P0368,Platform Bed with Storage,Home,Furniture,308.46029770410115,396.74
+64ea5e09fe4f979a95e9d7df,P0369,Mid-Century Modern Sofa,Home,Furniture,138.25730753645138,182.25
+64ea5e09fe4f979a95e9d7e0,P0370,Mid-Century Modern Sofa,Home,Furniture,282.55021881676544,361.01
+64ea5e09fe4f979a95e9d7e1,P0371,Cutlery Knife Block Set,Home,Kitchenware,436.1517335042576,599.66
+64ea5e09fe4f979a95e9d7e2,P0372,Eau de Parfum Spray,Beauty,Fragrance,385.65695464282084,532.05
+64ea5e09fe4f979a95e9d7e3,P0373,Bose QuietComfort 35,Electronics,Headphones,286.1055627142223,382.99
+64ea5e09fe4f979a95e9d7e4,P0374,Bose QuietComfort 35,Electronics,Headphones,162.73799456229645,242.9
+64ea5e09fe4f979a95e9d7e5,P0375,Coffee Maker,Home,Kitchenware,487.64085064654944,611.78
+64ea5e09fe4f979a95e9d7e6,P0376,"Thinking, Fast and Slow by Daniel Kahneman",Books,Non-Fiction,475.28460110477045,687.98
+64ea5e09fe4f979a95e9d7e7,P0377,iPhone 13,Electronics,Mobile Phones,26.16668221463317,37.94
+64ea5e09fe4f979a95e9d7e8,P0378,The Da Vinci Code by Dan Brown,Books,Mystery,452.0502430080094,633.57
+64ea5e09fe4f979a95e9d7e9,P0379,Pride and Prejudice by Jane Austen,Books,Fiction,355.1262137559743,466.52
+64ea5e09fe4f979a95e9d7ea,P0380,Mid-Century Modern Sofa,Home,Furniture,30.663249080955186,40
+64ea5e09fe4f979a95e9d7eb,P0381,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,74.45171950360609,95.19
+64ea5e09fe4f979a95e9d7ec,P0382,Gone Girl by Gillian Flynn,Books,Mystery,397.749063789504,556.11
+64ea5e09fe4f979a95e9d7ed,P0383,Upholstered Accent Chair,Home,Furniture,156.04940484806988,204.7
+64ea5e09fe4f979a95e9d7ee,P0384,Sony WH-1000XM4,Electronics,Headphones,32.95162008854251,45.11
+64ea5e09fe4f979a95e9d7ef,P0385,Mascara,Beauty,Makeup,107.81642131610371,156.3
+64ea5e09fe4f979a95e9d7f0,P0386,Becoming by Michelle Obama,Books,Non-Fiction,381.78769498607454,510.71
+64ea5e09fe4f979a95e9d7f1,P0387,MacBook Pro,Electronics,Laptops,270.0675128893764,344.87
+64ea5e09fe4f979a95e9d7f2,P0388,Coffee Maker,Home,Kitchenware,449.531193976902,664.96
+64ea5e09fe4f979a95e9d7f3,P0389,Upholstered Accent Chair,Home,Furniture,101.59022350665995,128.96
+64ea5e09fe4f979a95e9d7f4,P0390,HP Spectre x360,Electronics,Laptops,271.58344052995693,373.27
+64ea5e09fe4f979a95e9d7f5,P0391,Canon EOS 5D Mark IV,Electronics,Cameras,330.133208427898,413.41
+64ea5e09fe4f979a95e9d7f6,P0392,Decorative Throw Pillows,Home,Decor,403.8471985963217,600.72
+64ea5e09fe4f979a95e9d7f7,P0393,Upholstered Accent Chair,Home,Furniture,388.2278096841276,567.77
+64ea5e09fe4f979a95e9d7f8,P0394,Nikon Z6 II,Electronics,Cameras,25.960331244413055,37.31
+64ea5e09fe4f979a95e9d7f9,P0395,Distressed Skinny Jeans,Clothing,Jeans,151.08160569783524,196.45
+64ea5e09fe4f979a95e9d7fa,P0396,Striped Polo Shirt,Clothing,T-Shirts,238.24178184780666,348.31
+64ea5e09fe4f979a95e9d7fb,P0397,Heat Protectant Spray,Beauty,Haircare,235.3917288353809,322.65
+64ea5e09fe4f979a95e9d7fc,P0398,Gone Girl by Gillian Flynn,Books,Mystery,439.305630697586,634.58
+64ea5e09fe4f979a95e9d7fd,P0399,Turtleneck Cashmere Sweater,Clothing,Sweaters,259.5436363471464,378.48
+64ea5e09fe4f979a95e9d7fe,P0400,Cleansing Oil,Beauty,Skincare,361.25250779891735,517.23
+64ea5e09fe4f979a95e9d7ff,P0401,Slim Fit Denim Jeans,Clothing,Jeans,100.65240687448392,121.39
+64ea5e09fe4f979a95e9d800,P0402,Espresso Machine,Home,Appliances,59.019521781587684,84.24
+64ea5e09fe4f979a95e9d801,P0403,Sapiens by Yuval Noah Harari,Books,Non-Fiction,307.22995894313345,446.69
+64ea5e09fe4f979a95e9d802,P0404,Non-Stick Frying Pan,Home,Kitchenware,154.81140226440155,194.69
+64ea5e09fe4f979a95e9d803,P0405,Woody Eau de Toilette,Beauty,Fragrance,380.6209528559939,553.83
+64ea5e09fe4f979a95e9d804,P0406,Sony Alpha A7 III,Electronics,Cameras,198.85447620747578,243.94
+64ea5e09fe4f979a95e9d805,P0407,Becoming by Michelle Obama,Books,Non-Fiction,456.72204155378637,655.66
+64ea5e09fe4f979a95e9d806,P0408,Olympus OM-D E-M5 Mark III,Electronics,Cameras,243.50882748306327,309.71
+64ea5e09fe4f979a95e9d807,P0409,Citrus Cologne,Beauty,Fragrance,396.32138798169365,570.49
+64ea5e09fe4f979a95e9d808,P0410,Off-Shoulder Midi Dress,Clothing,Dresses,443.51384051013497,580.58
+64ea5e09fe4f979a95e9d809,P0411,Fit-and-Flare Party Dress,Clothing,Dresses,129.75061981513028,194.03
+64ea5e09fe4f979a95e9d80a,P0412,Espresso Machine,Home,Appliances,375.3430192972194,561.69
+64ea5e09fe4f979a95e9d80b,P0413,Canon EOS 5D Mark IV,Electronics,Cameras,190.77192867116563,242.02
+64ea5e09fe4f979a95e9d80c,P0414,Canvas Wall Art,Home,Decor,424.8255587106588,552.77
+64ea5e09fe4f979a95e9d80d,P0415,Mid-Century Modern Sofa,Home,Furniture,97.46808520322597,133.36
+64ea5e09fe4f979a95e9d80e,P0416,Turtleneck Cashmere Sweater,Clothing,Sweaters,496.5320941559248,647.82
+64ea5e09fe4f979a95e9d80f,P0417,Striped Polo Shirt,Clothing,T-Shirts,462.4621292765622,679.98
+64ea5e09fe4f979a95e9d810,P0418,Food Processor,Home,Appliances,82.80142726203972,120.84
+64ea5e09fe4f979a95e9d811,P0419,"Thinking, Fast and Slow by Daniel Kahneman",Books,Non-Fiction,323.5005290304641,431.81
+64ea5e09fe4f979a95e9d812,P0420,Bootcut Jeans,Clothing,Jeans,132.41553763389194,164.83
+64ea5e09fe4f979a95e9d813,P0421,Cutlery Knife Block Set,Home,Kitchenware,489.1735614695075,672.17
+64ea5e09fe4f979a95e9d814,P0422,Daring Greatly by Brené Brown,Books,Self-Help,461.2862742178256,689.05
+64ea5e09fe4f979a95e9d815,P0423,Sheet Masks Set,Beauty,Skincare,95.22950113817643,135.49
+64ea5e09fe4f979a95e9d816,P0424,Striped Polo Shirt,Clothing,T-Shirts,61.705620043240756,91.77
+64ea5e09fe4f979a95e9d817,P0425,Gone Girl by Gillian Flynn,Books,Mystery,465.41937018643375,678.91
+64ea5e09fe4f979a95e9d818,P0426,Stainless Steel Cookware Set,Home,Kitchenware,115.19646104214345,160.04
+64ea5e09fe4f979a95e9d819,P0427,The Great Gatsby by F. Scott Fitzgerald,Books,Fiction,346.2010100137666,471.95
+64ea5e09fe4f979a95e9d81a,P0428,iPhone 13,Electronics,Mobile Phones,461.35079388993535,600.11
+64ea5e09fe4f979a95e9d81b,P0429,Floral Perfume,Beauty,Fragrance,483.42875165812654,603.39
+64ea5e09fe4f979a95e9d81c,P0430,Cardigan with Buttons,Clothing,Sweaters,493.5178937399894,678.14
+64ea5e09fe4f979a95e9d81d,P0431,Blender,Home,Kitchenware,200.91803148320813,257.95
+64ea5e09fe4f979a95e9d81e,P0432,Sony WH-1000XM4,Electronics,Headphones,310.5978123395561,444.11
+64ea5e09fe4f979a95e9d81f,P0433,Platform Bed with Storage,Home,Furniture,120.14260005733507,150.76
+64ea5e09fe4f979a95e9d820,P0434,Athletic Performance Shirt,Clothing,T-Shirts,418.35026076505596,611.27
+64ea5e09fe4f979a95e9d821,P0435,Eau de Parfum Spray,Beauty,Fragrance,321.4066735856009,425.96
+64ea5e09fe4f979a95e9d822,P0436,Fit-and-Flare Party Dress,Clothing,Dresses,242.0282943303304,332.04
+64ea5e09fe4f979a95e9d823,P0437,High-Waisted Mom Jeans,Clothing,Jeans,236.13995239118006,285.8
+64ea5e09fe4f979a95e9d824,P0438,Striped Polo Shirt,Clothing,T-Shirts,253.4194416088466,345.31
+64ea5e09fe4f979a95e9d825,P0439,Solid Wood Dining Table,Home,Furniture,338.8333124585987,449.58
+64ea5e09fe4f979a95e9d826,P0440,Cardigan with Buttons,Clothing,Sweaters,151.24841751230232,182.46
+64ea5e09fe4f979a95e9d827,P0441,Solid Wood Dining Table,Home,Furniture,455.85636531423467,567.26
+64ea5e09fe4f979a95e9d828,P0442,Crewneck Wool Sweater,Clothing,Sweaters,187.75665338775227,234.63
+64ea5e09fe4f979a95e9d829,P0443,Ceramic Vases,Home,Decor,373.77979461276067,554.1
+64ea5e09fe4f979a95e9d82a,P0444,Sheet Masks Set,Beauty,Skincare,244.980903251632,354.16
+64ea5e09fe4f979a95e9d82b,P0445,You Are a Badass by Jen Sincero,Books,Self-Help,68.06044490339265,81.83
+64ea5e09fe4f979a95e9d82c,P0446,Retinol Cream,Beauty,Skincare,195.23689070266948,277.29
+64ea5e09fe4f979a95e9d82d,P0447,Sheet Masks Set,Beauty,Skincare,382.1522702648989,496.57
+64ea5e09fe4f979a95e9d82e,P0448,Hair Mask,Beauty,Haircare,487.2678304990032,601.27
+64ea5e09fe4f979a95e9d82f,P0449,Eau de Parfum Spray,Beauty,Fragrance,495.51064405543406,669.32
+64ea5e09fe4f979a95e9d830,P0450,Gone Girl by Gillian Flynn,Books,Mystery,383.00350351051895,460.29
+64ea5e09fe4f979a95e9d831,P0451,Hydrating Serum,Beauty,Skincare,89.28542094138305,121.2
+64ea5e09fe4f979a95e9d832,P0452,Sony Alpha A7 III,Electronics,Cameras,240.64860680716137,331.59
+64ea5e09fe4f979a95e9d833,P0453,Hair Mask,Beauty,Haircare,491.61331312494445,682.33
+64ea5e09fe4f979a95e9d834,P0454,Mid-Century Modern Sofa,Home,Furniture,189.10174164317135,238.77
+64ea5e09fe4f979a95e9d835,P0455,Panasonic Lumix GH5,Electronics,Cameras,199.94901037196368,277.72
+64ea5e09fe4f979a95e9d836,P0456,Big Little Lies by Liane Moriarty,Books,Mystery,85.53710904497498,122.67
+64ea5e09fe4f979a95e9d837,P0457,Stainless Steel Cookware Set,Home,Kitchenware,169.9679651955188,211.07
+64ea5e09fe4f979a95e9d838,P0458,Graphic Print Tee,Clothing,T-Shirts,411.2774492844366,494.05
+64ea5e09fe4f979a95e9d839,P0459,Canon EOS 5D Mark IV,Electronics,Cameras,11.408176469786298,16.93
+64ea5e09fe4f979a95e9d83a,P0460,Floral Perfume,Beauty,Fragrance,330.63891622927406,457.26
+64ea5e09fe4f979a95e9d83b,P0461,Nikon Z6 II,Electronics,Cameras,57.35669128550263,70.66
+64ea5e09fe4f979a95e9d83c,P0462,The Da Vinci Code by Dan Brown,Books,Mystery,61.577745538891094,91.54
+64ea5e09fe4f979a95e9d83d,P0463,Samsung Galaxy S21,Electronics,Mobile Phones,89.49712450913334,114.58
+64ea5e09fe4f979a95e9d83e,P0464,Pride and Prejudice by Jane Austen,Books,Fiction,44.50218022440131,65.04
+64ea5e09fe4f979a95e9d83f,P0465,Panasonic Lumix GH5,Electronics,Cameras,301.6280706199186,373.24
+64ea5e09fe4f979a95e9d840,P0466,Nikon Z6 II,Electronics,Cameras,457.1815840362378,566.97
+64ea5e09fe4f979a95e9d841,P0467,You Are a Badass by Jen Sincero,Books,Self-Help,334.24219022629677,492.96
+64ea5e09fe4f979a95e9d842,P0468,Mascara,Beauty,Makeup,229.62729090766518,341.7
+64ea5e09fe4f979a95e9d843,P0469,OnePlus 9,Electronics,Mobile Phones,440.55002602464526,659.41
+64ea5e09fe4f979a95e9d844,P0470,Wrap Dress,Clothing,Dresses,231.95509642651885,303.68
+64ea5e09fe4f979a95e9d845,P0471,Decorative Throw Pillows,Home,Decor,106.0052566219301,149.22
+64ea5e09fe4f979a95e9d846,P0472,Distressed Skinny Jeans,Clothing,Jeans,310.1176923726622,445.01
+64ea5e09fe4f979a95e9d847,P0473,Cardigan with Buttons,Clothing,Sweaters,314.3996604677472,467.11
+64ea5e09fe4f979a95e9d848,P0474,iPhone 13,Electronics,Mobile Phones,74.09749829044526,95.24
+64ea5e09fe4f979a95e9d849,P0475,Air Purifier,Home,Appliances,474.32414330939935,610.96
+64ea5e09fe4f979a95e9d84a,P0476,Heat Protectant Spray,Beauty,Haircare,485.2968198584934,591.14
+64ea5e09fe4f979a95e9d84b,P0477,The Power of Habit by Charles Duhigg,Books,Non-Fiction,10.691563738657237,12.99
+64ea5e09fe4f979a95e9d84c,P0478,OnePlus 9,Electronics,Mobile Phones,197.35089735256625,282.38
+64ea5e09fe4f979a95e9d84d,P0479,Panasonic Lumix GH5,Electronics,Cameras,277.7214141442905,415.12
+64ea5e09fe4f979a95e9d84e,P0480,You Are a Badass by Jen Sincero,Books,Self-Help,18.44704444417006,27.39
+64ea5e09fe4f979a95e9d84f,P0481,Off-Shoulder Midi Dress,Clothing,Dresses,299.5964289567059,365.11
+64ea5e09fe4f979a95e9d850,P0482,Air Purifier,Home,Appliances,129.83858063916222,169.27
+64ea5e09fe4f979a95e9d851,P0483,Canvas Wall Art,Home,Decor,248.24082967191734,334.42
+64ea5e09fe4f979a95e9d852,P0484,Sheet Masks Set,Beauty,Skincare,201.75187266310584,279.86
+64ea5e09fe4f979a95e9d853,P0485,Samsung Galaxy S21,Electronics,Mobile Phones,481.53388103000424,718.15
+64ea5e09fe4f979a95e9d854,P0486,Highlighter Stick,Beauty,Makeup,89.15329388031856,126.21
+64ea5e09fe4f979a95e9d855,P0487,Distressed Skinny Jeans,Clothing,Jeans,389.0510444367869,551.82
+64ea5e09fe4f979a95e9d856,P0488,Atomic Habits by James Clear,Books,Self-Help,353.67238567198876,489.67
+64ea5e09fe4f979a95e9d857,P0489,Acer Swift 3,Electronics,Laptops,40.309709103105085,55.92
+64ea5e09fe4f979a95e9d858,P0490,Gone Girl by Gillian Flynn,Books,Mystery,494.54814228514886,717.49
+64ea5e09fe4f979a95e9d859,P0491,Coffee Maker,Home,Kitchenware,329.0841225572442,492.6
+64ea5e09fe4f979a95e9d85a,P0492,Daring Greatly by Brené Brown,Books,Self-Help,142.73128116449988,187.72
+64ea5e09fe4f979a95e9d85b,P0493,Smart Thermostat,Home,Appliances,491.0713658317363,597.65
+64ea5e09fe4f979a95e9d85c,P0494,Wrap Dress,Clothing,Dresses,125.45810960293548,184.08
+64ea5e09fe4f979a95e9d85d,P0495,HP Spectre x360,Electronics,Laptops,145.6565698123511,213.35
+64ea5e09fe4f979a95e9d85e,P0496,Fujifilm X-T4,Electronics,Cameras,233.7668236517844,323.81
+64ea5e09fe4f979a95e9d85f,P0497,Turtleneck Cashmere Sweater,Clothing,Sweaters,11.70642594892325,17.15
+64ea5e09fe4f979a95e9d860,P0498,Robot Vacuum Cleaner,Home,Appliances,130.41353903810204,167.92
+64ea5e09fe4f979a95e9d861,P0499,Panasonic Lumix GH5,Electronics,Cameras,25.50749232288329,32.06
+64ea5e09fe4f979a95e9d862,P0500,Mascara,Beauty,Makeup,162.94308461913235,234.97
